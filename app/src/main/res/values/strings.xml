@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lab7-1</string>
+    <string name="tvTitle">Favorite Things</string>
+    <string name="ivLarge">Favorite Thing image</string>
 </resources>
