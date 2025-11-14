@@ -1,3 +1,11 @@
+/* Brigitte Smith
+Lab 7 - Favorite Things
+This app allows a user to tap a thumbnail image and have the app show a larger full version in an
+ImageView at the bottom of the screen. A toast notification informs the users of what they have
+selected with a brief description.
+11/09/2025
+ */
+
 package com.example.lab7_1;
 
 import android.content.Context;
