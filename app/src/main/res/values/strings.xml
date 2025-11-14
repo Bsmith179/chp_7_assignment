@@ -1,5 +1,14 @@
 <resources>
     <string name="app_name">Lab7-1</string>
-    <string name="tvTitle">Favorite Things</string>
+    <string name="tvTitle">My Favorite Things</string>
     <string name="ivLarge">Favorite Thing image</string>
+    <string name="thing_cats">All cats. This one is Emily</string>
+    <string name="thing_bakura">A perfectly safe children\'s card game</string>
+    <string name="thing_coffee">An iced coffee so strong that for like 4 minutes you actually have hope</string>
+    <string name="thing_bones">Bones and teeth</string>
+    <string name="thing_deadpool">Whatever Fabian Nicieza was doing to Deadpool and Cable in the mid-2000s</string>
+    <string name="thing_memes">\"Sir, that\'s my emotional support gallows humor\"</string>
+    <string name="thing_raikou">The only good legendary</string>
+    <string name="thing_normal">Being really normal and definitely not acting weird or unusual at all</string>
+    <string name="thing_roots">The wisdom of the ancient texts</string>
 </resources>

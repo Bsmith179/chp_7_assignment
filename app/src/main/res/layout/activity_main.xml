@@ -10,10 +10,11 @@
     <GridView
         android:id="@+id/gvThings"
         android:layout_width="380dp"
-        android:layout_height="320dp"
-        android:numColumns="3"
-        android:columnWidth="160dp"
+        android:layout_height="400dp"
+        android:layout_marginTop="5dp"
+        android:columnWidth="100dp"
         android:horizontalSpacing="5dp"
+        android:numColumns="3"
         android:verticalSpacing="5dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -24,22 +25,24 @@
 
     <ImageView
         android:id="@+id/ivLarge"
-        android:layout_marginTop="10dp"
-        android:layout_width="270dp"
+        android:layout_width="330dp"
         android:layout_height="300dp"
         android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
         android:contentDescription="@string/ivLarge"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias=".5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.962" />
+        app:layout_constraintVertical_bias="0.852" />
 
     <TextView
         android:id="@+id/tvTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
         android:text="@string/tvTitle"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
